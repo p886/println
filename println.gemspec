@@ -13,5 +13,5 @@ Gem::Specification.new do |s|
   s.files       = ['lib/println.rb']
   s.homepage    = 'https://github.com/p886/println'
   s.license     = 'MIT'
-  s.add_development_dependency 'rspec'
+  s.add_development_dependency 'rspec', '~> 3.1'
 end
